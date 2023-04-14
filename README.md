@@ -6,20 +6,30 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny0625" alt="sunny0625" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sukhbir37206444" target="blank"><img src="https://img.shields.io/twitter/follow/@sukhbir37206444?logo=twitter&style=for-the-badge" alt="@sukhbir37206444" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sukhbir37206444" target="blank"><img src="https://img.shields.io/twitter/follow/sukhbir37206444?logo=twitter&style=for-the-badge" alt="sukhbir37206444" /></a> </p>
+
+- 🔭 I’m currently working on **Python,DSA**
 
 - 🌱 I’m currently learning **Back-End with Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://sunny0625.github.io/Portfolio/](https://sunny0625.github.io/Portfolio/)
+- 👯 I’m looking to collaborate on **Web Dev/3D-CAD/ML Model**
+
+- 🤝 I’m looking for help with **Open-Source Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sunny0625](https://github.com/sunny0625)
 
 - 💬 Ask me about **Machine Learning Model**
 
 - 📫 How to reach me **sukhbirsingh2408@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UIwlKrollo6yqxn9UAW6vcKdWEJoXDt1/view?usp=sharing](https://drive.google.com/file/d/1UIwlKrollo6yqxn9UAW6vcKdWEJoXDt1/view?usp=sharing)
+
+- ⚡ Fun fact **I am Mandala-Artist, Bhangra-Dancer, Sports-persion.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sunny0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunny0625" height="30" width="40" /></a>
-<a href="https://twitter.com/@sukhbir37206444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sukhbir37206444" height="30" width="40" /></a>
+<a href="https://twitter.com/sukhbir37206444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukhbir37206444" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sukhbir-singh-virdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhbir-singh-virdi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15923365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15923365" height="30" width="40" /></a>
 <a href="https://kaggle.com/sukhbirsinghsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sukhbirsinghsunny" height="30" width="40" /></a>
