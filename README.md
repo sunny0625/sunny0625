@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ElizaLo/Machine-Learning/master/images/Banner_Machine_Learning.png)]()
 <h1 align="center">Hi 👋, I'm Sukhbir Singh</h1>
 <h3 align="center">A passionate frontend developer & ML Engineer from India</h3>
-<img align = "right" alt = "Coding" width = "400" scr = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<!--<img align = "right" alt = "Coding" width = "400" scr = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny0625&label=Profile%20views&color=0e75b6&style=flat" alt="sunny0625" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny0625" alt="sunny0625" /></a> </p>
