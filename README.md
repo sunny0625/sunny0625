@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Python,DSA**
 
-- 🌱 I’m currently learning **Back-End with Node.JS**
+- 🌱 I’m currently learning **React, APIs**
 
 - 👯 I’m looking to collaborate on **Web Dev/3D-CAD/ML Model**
 
