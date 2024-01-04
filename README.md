@@ -52,3 +52,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny0625&show_icons=true&locale=en" alt="sunny0625" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny0625&" alt="sunny0625" /></p>
+
+[![sunny0625's GitHub | Stats](https://stats.quine.sh/sunny0625/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sunny0625)
+[![sunny0625's GitHub | Dependencies](https://stats.quine.sh/sunny0625/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sunny0625)
+[![sunny0625's GitHub | Languages Over Time](https://stats.quine.sh/sunny0625/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sunny0625)
