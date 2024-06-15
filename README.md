@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny0625" alt="sunny0625" /></a> </p>
 
-<p align="left"> <a href="https://x.com/sukhbir__virdi" target="blank"><img src="https://img.shields.io/twitter/follow/sukhbir37206444?logo=twitter&style=for-the-badge" alt="sukhbir37206444" /></a> </p>
+<p align="left"> <a href="https://x.com/sukhbir__virdi" target="blank"><img src="https://img.shields.io/x/follow/sukhbir__virdi?logo=twitter&style=for-the-badge" alt="sukhbir__virdi" /></a> </p>
 
-- 🔭 I’m currently working on **Python,DSA**
+- 🔭 I’m currently working on **Java,DSA**
 
-- 🌱 I’m currently learning **React, APIs**
+- 🌱 I’m currently learning **VueJS, NuxtJS**
 
 - 👯 I’m looking to collaborate on **Web Dev/3D-CAD/ML Model**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sukhbirsingh2408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UIwlKrollo6yqxn9UAW6vcKdWEJoXDt1/view?usp=sharing](https://drive.google.com/file/d/1UIwlKrollo6yqxn9UAW6vcKdWEJoXDt1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cdGo3tfx37uVwCa9nGLzpp6NtvTWQtog/view?usp=sharing)
 
 - ⚡ Fun fact **I am Mandala-Artist, Bhangra-Dancer, Sports-person.**
 
