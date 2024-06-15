@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny0625" alt="sunny0625" /></a> </p>
 
-<p align="left"> <a href="https://x.com/sukhbir__virdi" target="blank"><img src="https://img.shields.io/x/follow/sukhbir__virdi?logo=twitter&style=for-the-badge" alt="sukhbir__virdi" /></a> </p>
+<p align="left"> <a href="https://x.com/sukhbir__virdi" target="blank"><img src="https://img.shields.io/x/follow/sukhbir__virdi?logo=x&style=for-the-badge" alt="sukhbir__virdi" /></a> </p>
 
 - 🔭 I’m currently working on **Java,DSA**
 
@@ -30,8 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sunny0625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunny0625" height="30" width="40" /></a>
-<a href="https://twitter.com/sukhbir37206444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukhbir37206444" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sukhbir-singh-virdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhbir-singh-virdi" height="30" width="40" /></a>
+<a href="https://x.com/sukhbir__virdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukhbir__virdi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sukhbir--virdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhbir-singh-virdi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15923365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15923365" height="30" width="40" /></a>
 <a href="https://kaggle.com/sukhbirsinghsunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sukhbirsinghsunny" height="30" width="40" /></a>
 <a href="https://instagram.com/sukhbir__virdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukhbir__virdi" height="30" width="40" /></a>
