@@ -1,7 +1,7 @@
 [![An image of @sunny0625's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunny0625)](https://holopin.io/@sunny0625)
 <!--![MasterHead](https://raw.githubusercontent.com/ElizaLo/Machine-Learning/master/images/Banner_Machine_Learning.png)-->
 <h1 align="center">Hi , I'm Sukhbir Singh</h1>
-<h3 align="center">A passionate frontend developer & ML Engineer from India</h3>
+<h3 align="center">A passionate DevOps engineer & Oracle FlexCube Universal Banking System Techno-Functional in FinTech from India</h3>
 <!--![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)-->
 <!--<img align = "right" alt = "Coding" width = "400" scr = "">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny0625&label=Profile%20views&color=0e75b6&style=flat" alt="sunny0625" /> </p>
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://x.com/sukhbir__virdi" target="blank"><img src="https://img.shields.io/twitter/follow/sukhbir__virdi?logo=twitter&style=for-the-badge" alt="sukhbir__virdi" /></a> </p>
 
-- 🔭 I’m currently working on **Java,DSA**
+- 🔭 I’m currently working on **API Integration**
 
-- 🌱 I’m currently learning **VueJS, NuxtJS**
+- 🌱 I’m currently learning **DevOps CI/CD, GenAI & Agentic AI**
 
-- 👯 I’m looking to collaborate on **Web Dev/3D-CAD/ML Model**
+- 👯 I’m looking to collaborate on **Web Dev, DevOps lifecycle configuration**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sukhbirsingh2408@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cdGo3tfx37uVwCa9nGLzpp6NtvTWQtog/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aLEDSeVhqcI79bFhu2N4MW9nwrxEexIX/view?usp=sharing)
 
 - ⚡ Fun fact **I am Mandala-Artist, Bhangra-Dancer, Sports-person.**
 
